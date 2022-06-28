@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Date renders Date component unchanged 1`] = `
+<div>
+  <time
+    datetime="2020-01-02"
+  >
+    January 2, 2020
+  </time>
+</div>
+`;
